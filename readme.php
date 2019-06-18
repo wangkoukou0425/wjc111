@@ -6,4 +6,4 @@ echo "12321331";
 echo "asdasdasdasdsad";
 echo "asdsadsadq2h3kwfksglaf h1uih kwk skb=";
 echo "姚强大傻逼";
-echo "Creating a new branch is quick.";
+echo "Creating a new branch is quick & simple.";
